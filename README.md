@@ -2,6 +2,6 @@
 <br>
 Here you can found all projects which are hosted online
 <br>
-1.Digital Clock using JavaScript: https://ankushmallick1100.github.io/Digital-Clock/
+React Projects:
 <br>
-2.
+1.Weather App:
