@@ -4,6 +4,5 @@ Here you can found all projects which are hosted online
 <br>
 React Projects:
 <br>
-Mini Project:<br>
-1.TextUtits App:https://ankush-mallick-reacttextutils.netlify.app/  <br>
-2.Weather App:
+1.TextUtits App: https://ankush-mallick-reacttextutils.netlify.app/  <br>
+2.My Portfolio Website: https://ankushmallick.netlify.app/ <br>
